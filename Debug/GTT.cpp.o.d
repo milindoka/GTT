@@ -220,7 +220,11 @@ Debug/GTT.cpp.o: GTT.cpp GTT.h /usr/include/wx-3.1-unofficial/wx/wx.h \
  /usr/include/wx-3.1-unofficial/wx/gtk/filectrl.h \
  /usr/include/wx-3.1-unofficial/wx/filectrl.h \
  /usr/include/wx-3.1-unofficial/wx/mdi.h \
- /usr/include/wx-3.1-unofficial/wx/gtk/mdi.h
+ /usr/include/wx-3.1-unofficial/wx/gtk/mdi.h \
+ /usr/include/wx-3.1-unofficial/wx/grid.h \
+ /usr/include/wx-3.1-unofficial/wx/generic/grid.h \
+ /usr/include/wx-3.1-unofficial/wx/generic/grideditors.h \
+ /usr/include/wx-3.1-unofficial/wx/generic/gridctrl.h
 
 GTT.h:
 
@@ -669,3 +673,11 @@ GTT.h:
 /usr/include/wx-3.1-unofficial/wx/mdi.h:
 
 /usr/include/wx-3.1-unofficial/wx/gtk/mdi.h:
+
+/usr/include/wx-3.1-unofficial/wx/grid.h:
+
+/usr/include/wx-3.1-unofficial/wx/generic/grid.h:
+
+/usr/include/wx-3.1-unofficial/wx/generic/grideditors.h:
+
+/usr/include/wx-3.1-unofficial/wx/generic/gridctrl.h:
