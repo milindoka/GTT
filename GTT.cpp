@@ -20,6 +20,9 @@ GTT::GTT(const wxString& title)
      WxGrid1->SetColLabelValue(5,"FRI");
      WxGrid1->SetColLabelValue(6,"SAT");
      
+//     wxGridCellAttr *ColumnAttr = new wxGridCellAttr;// 
+
+     
      this->Maximize();
   Centre();
 }
